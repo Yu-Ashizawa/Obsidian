@@ -1,8 +1,7 @@
 ---
-tags: [#daily]
+tags:
+  - daily
 ---
-
-
 ## ✅ 今日の予定
 - 
 
