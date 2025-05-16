@@ -1,14 +1,14 @@
 ---
 tags: ["#atomic"]
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD") %> 
+created: 2025-05-16
+updated: 2025-05-16 
 status: "draft"           # draft / reviewed / evergreen
 type: "concept"           # concept / method / example / principle / log
 category: "Obsidian"      # 任意分類：例) 技術, LYT, 健康, フィットネス
-aliases: ["<% tp.file.title %>"]
+aliases: ["test"]
 ---
 
-# <% tp.file.title %>
+# test
 
 ## 💡 概要
 - このノートで何を伝えたいのか一言で
