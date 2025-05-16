@@ -6,7 +6,7 @@ project: TNSS 796
 ---
 
 
-# TNSS796のCSV出力処理改修
+# CSV出力処理機能
 
 ## 概要・目的
 
