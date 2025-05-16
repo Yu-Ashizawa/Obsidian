@@ -1,11 +1,11 @@
 ---
-tags: ["#atomic"]
+tags:
+  - "#atomic"
 created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD") %> 
-status: "draft"           # draft / reviewed / evergreen
-type: "concept"           # concept / method / example / principle / log
-category: "Obsidian"      # 任意分類：例) 技術, LYT, 健康, フィットネス
-aliases: ["<% tp.file.title %>"]
+status: draft
+category: Obsidian
+aliases:
+  - <% tp.file.title %>
 ---
 
 # <% tp.file.title %>

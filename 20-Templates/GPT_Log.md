@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#GPT"
+  - chatGPT
 created: <% tp.date.now("YYYY-MM-DD") %>
-topic:
+category:
 ---
 
 # GPTログ：<% tp.file.title %>
@@ -15,10 +15,9 @@ topic:
 
 ---
 
-## 💡 要点・使えそうなアイデア（任意）
+## 💡 要点・使えそうなアイデア
 - 
 - 
 
-## 🔗 切り出すべきAtomic Note（あとでやる）
-- [[LYTの4ステップ]]
-- [[MOCの作り方]]
+## 🔗 切り出すべきAtomic Note
+-
