@@ -1,6 +1,8 @@
 ---
 tags:
   - chatGPT
+  - "#三項演算子"
+  - moment_js
 created: 2025-05-16
 category: JavaScript
 ---
