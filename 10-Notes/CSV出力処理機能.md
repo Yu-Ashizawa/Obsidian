@@ -44,4 +44,8 @@ project: TNSS 796
 ## 結論・決定事項
 
 - 
-task
+
+
+---
+## メモ
+[[chatGPTによる解説]]
