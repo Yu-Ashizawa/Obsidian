@@ -2,7 +2,7 @@
 tags:
   - tasklog
 created: 2025-05-16
-project:
+project: TNSS 796
 ---
 
 
@@ -11,7 +11,7 @@ project:
 ## 概要・目的
 
 （この作業で何をするのか／なぜ必要か）
-- [ ]
+- 
 
 ---
 
