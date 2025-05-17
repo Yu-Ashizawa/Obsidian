@@ -74,3 +74,4 @@ value_1 = checkedRecord["送金日"]["value"]
 
 ## 🔗 切り出すべきAtomic Note
 -
+eeeeee
